@@ -1,2 +1,2 @@
 # WebDevBootCamp
-Udemy boot camp by Colt Steele
+Files from my Udemy Web Developer Boot Camp taught by Colt Steele
